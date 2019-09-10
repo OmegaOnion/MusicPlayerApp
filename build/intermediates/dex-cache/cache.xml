@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\8b10f48e4ab3472b061de1994e680c703b3d8216\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_a686219b71981a0a26389ebb7468f18ba6f805ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\7f2860c356cd3a32dd3c4c88b4ccdc05c40b7f5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_9b25e27aa3dc900f960728f50c2be2682e7ac8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_6ebf53c4862b671f0bd6051795ad9913e00fa92b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\33b1163c68ea23dcee0f709048c248ca85f25fb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_e58362182314ce61a33cb2e718341363db81afd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\2353db3be461b88d9e5a053cecb15a0f70379988\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_3e0ce65f65ad6b184a33bc610dec55687fe72d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\cf09d5c086571cdfb9ab1bedfcd7f54042571552\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_971ee013f1d0625befdcdb74cb861ec4716445d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\7880196b86ce1a6a6a17e12aedae99ccced16c17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_17a58a5281a6a2067416403f445c952ace5d5510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\9a44c29d798c91f493592c5935df5e237928b300\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_4bb1d33e7488a2e2af180d9dab33149ed4707f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\e02e2faf6763471e624c791d76a34c1aeab0fdca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_c0b5bfe464991b9b090d8dc317f2ae3d2c418c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\6b63e75286b3b46fc5379f36863e98e349666a1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_72a8f5187e0f30daf9139ff9130c5e79be501bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_77173c1a3b6e70b49c3fb7f0ca52a8e2e6fedb46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Sam\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_93db200a1b63c1b25ea11d877f7136f3f51c768e.jar" />
+    </item>
+
+</items>

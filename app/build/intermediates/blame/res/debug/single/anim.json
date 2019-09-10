@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

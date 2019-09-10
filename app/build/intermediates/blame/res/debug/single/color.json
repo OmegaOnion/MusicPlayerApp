@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    }
+]

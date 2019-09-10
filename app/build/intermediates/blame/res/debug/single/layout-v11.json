@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sam\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\dc8ef680af905eb2c81b4b3e92f201458b7b2cd2\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Sam\\Downloads\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Sam\\.android\\build-cache\\880232e6aa243966e41c9d62eaa18d45f75092fe\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
